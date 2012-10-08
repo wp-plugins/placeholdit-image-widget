@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: shermanb
-Donate link: http://example.com/
-Tags: widgets, images, placeholder, placehold.it
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CL4G8STR3AZQQ
+Tags: widgets, images, placeholder, placehold.it, sidebar
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0
